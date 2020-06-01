@@ -6,7 +6,7 @@ The project is an application Convolutional Neural Networks and aims to develop 
 
 ## Datasets
 * [Dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
-* [Human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+* [Human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 
 ##  Concepts Used
 **1**. Used the HaarCascade Classifier from OpenCV library to detect human faces in supplied images and used the pretrained VGG16 model to detect dog in images.<br>
