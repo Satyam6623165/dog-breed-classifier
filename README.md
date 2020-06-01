@@ -1,5 +1,5 @@
 # Dog Breed Classifier
-This project is part of Udacity's Deep Learning Nanodegree course. The whole project is implemented in Pytorch libraray. Other dependencies are given in requirements.txt. 
+This project is part of Udacity's Deep Learning Nanodegree course. The whole project is implemented in Pytorch libraray.
 
 ## Overview
 The project is an application Convolutional Neural Networks and aims to develop a pipeline which can be used in web or mobile app to process user-supplied images. Our model tries to predict the true breed of dog if supplied with a dog image and tries to predict a resembling dog breed when supplied with images of human faces. 
